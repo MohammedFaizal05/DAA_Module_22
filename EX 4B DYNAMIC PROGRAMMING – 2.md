@@ -18,7 +18,7 @@ Program to implement the longest common substring problem
 Developed by: MOHAMMED FAIZAL J
 Register Number: 212222100027
 ```
-```
+```PYTHON
 def LCS(X, Y, m, n):
     maxLength = 0
     endingIndex = m
