@@ -18,7 +18,7 @@ Program to implement to find the length of the longest palindromic subsequence i
 Developed by: MOHAMMED FAIZAL J
 Register Number: 212222100027
 ```
-```
+```PYTHON
 dp = [[-1 for i in range(1001)]for j in range(1001)]
 def lps(s1, s2, n1, n2):   
     if (n1 == 0 or n2 == 0):       
