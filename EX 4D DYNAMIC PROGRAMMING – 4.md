@@ -20,7 +20,7 @@ Program to implement to find the minimum number of operations to convert str1 to
 Developed by: MOHAMMED FAIZAL J
 Register Number: 212222100027
 ```
-```
+```PYTHON
 def LD(s, t):
     
     if s == "":
