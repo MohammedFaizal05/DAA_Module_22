@@ -19,7 +19,7 @@ Program to implement the longest common subsequence using Dynamic Programming.
 Developed by: MOHAMMED FAIZAL J
 Register Number: 212222100027
 ```
-```
+```PYTHON
 def lcs(u, v):
     """Return c where c[i][j] contains length of LCS of u[i:] and v[j:]."""
     c = [[-1]*(len(v) + 1) for _ in range(len(u) + 1)]
